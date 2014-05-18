@@ -1,0 +1,23 @@
+Key Functionality
+- Side by Side view in "binocular style" (a bit like Oculus Rift)
+- Use voice commands to control the app
+- Apply different shaders for various image effects (for instance inverted colors, old film, etc.)
+- Recognizes predefined targets that will expose 3D models and also play videos 
+- Take screenshots
+- Walkera QR W100S FPV (slow)
+
+Instructions
+- Press ok and put on your HMD
+- Look at target to execute an action
+- Tap screen to apply another shader to the video background, double tap to access options menu
+- Whistle/snap/clap to activate voice commands (if it works, you will hear a sound)
+- Say "next" and "back" to switch between shaders,
+- "flash on" and "flash off" to toggle camera flash,
+- "autofocus on" and "autofocus off" to toggle continuous autofocus,
+- "focus" to immediately autofocus,
+- "screenshot", to save a screenshot to /sdcard/Android/data/biz.buelter.viewr/files,
+- "launcher", starts the divegames launcher if you have installed it,
+- "drone" and "camera" to switch between camera and Walkera QR W100S FPV (make sure you're connected to it)
+- "menu" to access options menu and "close" to close it again,
+- "compass on" and "compass off", to toggle compass, 
+- "exit" to terminate

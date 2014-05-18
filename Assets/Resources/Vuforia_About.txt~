@@ -1,0 +1,19 @@
+At the moment ViewR is just a demo application that basically mixes a side by side view 
+for head mounted displays like the Durovis Dive with the Augmented Reality SDK Vuforia.
+Despite it's limited functionality, ViewR gives an impression, of what it could be like
+to use a smart wearable like google glass and much more.
+
+Key Functionality
+- Apply different shaders for various image effects (for instance inverted colors, fish eye, etc.)
+- Shows information in the right upper corner of the display (target information and data from gyro)
+- Recognizes predefined targets that will expose 3D models and also play videos 
+- Manage camera functions: flash and continuous autofocus
+
+Targets
+http://www.buelter.biz/viewr/targets
+
+Instructions
+- Point camera at target to execute an action
+- Tap screen to apply another shader to the video background
+- Double tap to access options menu
+- Press back button to view about screen (twice to quit)
